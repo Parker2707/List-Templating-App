@@ -1,2 +1,2 @@
 # List-Templating-App
-Quickly create numbered lists for various purposes.
+Quickly create numbered list templates for various purposes.
